@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nicolás Mauvecin</h1>
 <h3 align="center">An electrical engineering student who decided to learn programming :)</h3>
 
-- 🌱 I’m currently learning **Javascript in the curso gratuito <a href="https://argentinaprograma.com/">r/argentina-programa</a>**
+- 🌱 I'm learning Javascript in the free course <a href="https://argentinaprograma.com/">r/argentina-programa</a>**
 
 - 📫 How to reach me **medinamauvecin@gmail.com**
 
