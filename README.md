@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nicolás Mauvecin</h1>
 <h3 align="center">An electrical engineering student who decided to learn programming :)</h3>
 
-- 🌱 I'm learning **Javascript** and **Python (Django, Flask)**
+- 🌱 I'm learning **Web Design, Javascript, React and NodeJS** on **NUCBA**.
 
 - 📫 How to reach me **medinamauvecin@gmail.com**
 
