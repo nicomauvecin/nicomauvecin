@@ -1,9 +1,9 @@
 <h1 align="center">¡Buenas! 👋, soy Nicolás Mauvecin</h1>
-<h3 align="center">Un estudiante de Ingeniería Eléctrica que se decidió a estudiar programación e introducirse en el mundo de los datos.</h3>
+<h3 align="center">Data Engineer</h3>
 
-- 🌱 Estoy trabajando como **Data Engineer Jr** en **Datalytics**.
+- 🌱 Actualmente estoy trabajando como **Data Engineer** en **Datalytics**. 
 
-- 🏠 Actualmente estoy capacitandome en Python, SQL y servicios administrados en la nube.
+- 🏠 Participé en distintos proyectos utilizando lenguajes y herramientas como Databricks, Data Factory, Python, PySpark, SparkR y SQL. 
 
 
 <h3 align="left">Conocimientos</h3>
